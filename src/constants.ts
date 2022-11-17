@@ -68,3 +68,5 @@ export class StoredProcedures {
 }
 
 export const NON_EXISTENT_ID: number = -1;
+export const DB_CONNECTION_STRING =
+  "server=.;Database=masa_school;Trusted_Connection=Yes;Driver={ODBC Driver 17 for SQL Server}";
